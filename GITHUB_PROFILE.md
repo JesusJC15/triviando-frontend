@@ -38,7 +38,7 @@
   - Dynamic trivia generation and question display
   - Live leaderboard and ranking system
   - Responsive UI with smooth animations
-- **Testing:** Comprehensive test suite with Vitest and Testing Library (20+ test files)
+- **Testing:** Comprehensive test suite with Vitest and Testing Library (22 test files)
 - **CI/CD:** Automated deployment pipeline using GitHub Actions and Azure Web Apps
 - Applied best practices including:
   - Clean architecture with layered separation (features, services, API clients)
