@@ -15,7 +15,7 @@ Una plataforma de trivia interactiva multijugador en tiempo real con mecánicas 
 - [Estructura del Proyecto](#-estructura-del-proyecto)
 - [Requisitos Previos](#-requisitos-previos)
 - [Instalación](#-instalación)
-- [Configuración](#️-configuración)
+- [Configuración](#-configuración)
 - [Scripts Disponibles](#-scripts-disponibles)
 - [Arquitectura](#-arquitectura)
 - [Testing](#-testing)
